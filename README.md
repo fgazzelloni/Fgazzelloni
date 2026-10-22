@@ -1,55 +1,35 @@
-**Statistics | Actuarial | Public Health | Data Modeling | Data Visualization | R Expertise | Risk Assessments**
+# Federica Gazzelloni
 
-### Hi there 👋
+**Actuary & Statistician | Health Metrics, Risk Modelling & Reproducible Research | Author & Instructor**
 
-<!--
-**Fgazzelloni/Fgazzelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of actuarial science, population health, and reproducible research. I develop analytical workflows and teaching materials that help people understand complex data, assess uncertainty, and use statistical models in practice.
 
-Here are some ideas to get you started:
+My work combines statistics, R, machine learning, spatial modelling, and AI-assisted workflows, with an emphasis on clear assumptions, documented methods, and results that others can inspect and reproduce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
 
+- **[Health Metrics and the Spread of Infectious Diseases](https://federicagazzelloni.com/hmsidR/)** — my book on health metrics, machine learning, and spatial modelling with R, published by CRC Press in 2025. [Source code and materials](https://github.com/Fgazzelloni/hmsidR).
+- **[hmsidwR](https://cran.r-project.org/package=hmsidwR)** — datasets and supporting functions for working through the book.
+- **[typeR](https://cran.r-project.org/package=typeR)** — animated script typing for teaching and demonstrations.
+- **[R for Actuaries](https://github.com/fgazzelloni/r-for-actuaries-2026)** — practical teaching materials for actuarial applications.
+- **[Data visualisation portfolio](https://federicagazzelloni.com/UPDVwR/)** — visual examples with accompanying R code.
 
+## Research, teaching, and community
 
-I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor**. 
+I collaborate with the Institute for Health Metrics and Evaluation (IHME) on the Global Burden of Disease (GBD) Study. I am a Certified Carpentries Instructor and lead organiser of [R-Ladies Rome](https://rladiesrome.org/), where I organise workshops, tutorials, and data science talks.
 
-🏃‍♀️ Currently, I'm engaged in diverse projects, notably the Global Burden of Diseases (GBD) initiative in collaboration with IHME.
-If you'd like to know more about **Health Metrics** such as **DALYs, YLLs and YLDs** and how they are affected by the spread of **Infectious Diseases** have a look at my latest book: [I teach how to use Machine Learning algorithms and apply spatial models in R.](https://amzn.to/4aHGseT)
+Through [DataMetricus](https://datametricus.com/), I bring together quantitative analysis, reproducible workflows, and training.
 
-📚 I'm actively on a continous learning path (advancing my skills in Python). 
-💡 I organize tutorials/workshops and data analytics talks at [@rladiesrome](https://rladiesrome.org/) 
+I also write [Notes on Data and Learning](https://federicagazzelloni.substack.com/), reflecting on statistics, modelling, AI, and learning through practice.
 
-🌱 I'm enthusiastic about collaborating on advanced statistical programs and am open to discussing anything related to Statistics, R, or GitHub.
+## Connect
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I enjoy making data visualizations and studying infectious diseases
-
-<!--
-</div>
-<br>
-<div align="center" >
- 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/federicagazzelloni/get-help.svg)](https://www.codementor.io/@federicagazzelloni?refer=badge) 
-
-</div>
--->
-
-<body>
- 📫 How to reach me: (ping me on Slack https://dslc.io/)
-
-- My Blog: <a rel="me" href="https://federicagazzelloni.com">Federica's Blog</a>
-- Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
-- Linkedin: <a rel="me" href="https://www.linkedin.com/in/federicagazzelloni">federicagazzelloni</a>
-- Orcid: [0000-0002-4285-611X](https://orcid.org/0000-0002-4285-611X)
+- [Website](https://federicagazzelloni.com/)
+- [LinkedIn](https://www.linkedin.com/in/federicagazzelloni)
+- [ORCID](https://orcid.org/0000-0002-4285-611X)
+- [X / Twitter](https://twitter.com/FGazzelloni)
+- [Mastodon](https://fosstodon.org/@fgazzelloni)
 - Email: docksbox@pm.me / fede.gazzelloni@gmail.com
-- Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">fosstodon.org/@fgazzelloni</a>
-</body>
+- Community: find me in the [Data Science Learning Community](https://dslc.io/)
+
+Pronouns: she/her.
